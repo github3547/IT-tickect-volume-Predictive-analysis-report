@@ -9,7 +9,6 @@
 
 This project builds a **Multiple Linear Regression model** to forecast IT helpdesk ticket volume using operational drivers such as staff count, remote work percentage, system update frequency, and staff tenure. Results are presented in a **six-sheet Excel workbook** designed for non-technical stakeholders.
 
-This work demonstrates the analytical depth and communication skills required for Data Analyst roles in the ACT Public Sector (entry point ~$110,000/year).
 
 ---
 
